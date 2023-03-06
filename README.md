@@ -13,10 +13,10 @@
 - ⚡ I love to **read📚 and sketch🧑🏽‍🎨(still learning!)**, while I'm not coding.
 
 
-<!-- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lulunegede&show_icons=true&theme=midnight-purple" /> -->
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=lulunegede&show_icons=true&theme=midnight-purple" />
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulunegede&layout=compact&theme=transparent&langs_count=9)](https://github.com/lulunegede/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulunegede&layout=compact&theme=transparent&langs_count=9)](https://github.com/lulunegede/github-readme-stats)
 
 ## 🛠Language & Tools
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" href="https://www.python.org"/>
