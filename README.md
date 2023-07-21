@@ -6,7 +6,7 @@
 
 - 💥 Interests in AI🤖, Data Science📈, and philosophy🌌
 
-- 👨‍💻 All of my projects are available at [https://github.com/lulunegede](https://github.com/lulunegede)
+- 👨‍💻 All of my projects are available at [https://github.com/lulunegede](https://github.com/Avinegede)
 
 - 📫 How to reach me **abyssinianegede32@gmail.com** or [LinkedIn]()
 
